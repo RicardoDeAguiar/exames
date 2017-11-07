@@ -1,0 +1,100 @@
+<?php
+require_once("verysimple/Phreeze/Criteria.php");
+
+class AgendaCriteriaDAO extends Criteria
+{
+
+	public $Datahora_Equals;
+	public $Datahora_NotEquals;
+	public $Datahora_IsLike;
+	public $Datahora_IsNotLike;
+	public $Datahora_BeginsWith;
+	public $Datahora_EndsWith;
+	public $Datahora_GreaterThan;
+	public $Datahora_GreaterThanOrEqual;
+	public $Datahora_LessThan;
+	public $Datahora_LessThanOrEqual;
+	public $Datahora_In;
+	public $Datahora_IsNotEmpty;
+	public $Datahora_IsEmpty;
+	public $Datahora_BitwiseOr;
+	public $Datahora_BitwiseAnd;
+	public $Nome_Equals;
+	public $Nome_NotEquals;
+	public $Nome_IsLike;
+	public $Nome_IsNotLike;
+	public $Nome_BeginsWith;
+	public $Nome_EndsWith;
+	public $Nome_GreaterThan;
+	public $Nome_GreaterThanOrEqual;
+	public $Nome_LessThan;
+	public $Nome_LessThanOrEqual;
+	public $Nome_In;
+	public $Nome_IsNotEmpty;
+	public $Nome_IsEmpty;
+	public $Nome_BitwiseOr;
+	public $Nome_BitwiseAnd;
+	public $Idexame_Equals;
+	public $Idexame_NotEquals;
+	public $Idexame_IsLike;
+	public $Idexame_IsNotLike;
+	public $Idexame_BeginsWith;
+	public $Idexame_EndsWith;
+	public $Idexame_GreaterThan;
+	public $Idexame_GreaterThanOrEqual;
+	public $Idexame_LessThan;
+	public $Idexame_LessThanOrEqual;
+	public $Idexame_In;
+	public $Idexame_IsNotEmpty;
+	public $Idexame_IsEmpty;
+	public $Idexame_BitwiseOr;
+	public $Idexame_BitwiseAnd;
+	public $Idpaciente_Equals;
+	public $Idpaciente_NotEquals;
+	public $Idpaciente_IsLike;
+	public $Idpaciente_IsNotLike;
+	public $Idpaciente_BeginsWith;
+	public $Idpaciente_EndsWith;
+	public $Idpaciente_GreaterThan;
+	public $Idpaciente_GreaterThanOrEqual;
+	public $Idpaciente_LessThan;
+	public $Idpaciente_LessThanOrEqual;
+	public $Idpaciente_In;
+	public $Idpaciente_IsNotEmpty;
+	public $Idpaciente_IsEmpty;
+	public $Idpaciente_BitwiseOr;
+	public $Idpaciente_BitwiseAnd;
+	public $Obs_Equals;
+	public $Obs_NotEquals;
+	public $Obs_IsLike;
+	public $Obs_IsNotLike;
+	public $Obs_BeginsWith;
+	public $Obs_EndsWith;
+	public $Obs_GreaterThan;
+	public $Obs_GreaterThanOrEqual;
+	public $Obs_LessThan;
+	public $Obs_LessThanOrEqual;
+	public $Obs_In;
+	public $Obs_IsNotEmpty;
+	public $Obs_IsEmpty;
+	public $Obs_BitwiseOr;
+	public $Obs_BitwiseAnd;
+	public $Resultado_Equals;
+	public $Resultado_NotEquals;
+	public $Resultado_IsLike;
+	public $Resultado_IsNotLike;
+	public $Resultado_BeginsWith;
+	public $Resultado_EndsWith;
+	public $Resultado_GreaterThan;
+	public $Resultado_GreaterThanOrEqual;
+	public $Resultado_LessThan;
+	public $Resultado_LessThanOrEqual;
+	public $Resultado_In;
+	public $Resultado_IsNotEmpty;
+	public $Resultado_IsEmpty;
+	public $Resultado_BitwiseOr;
+	public $Resultado_BitwiseAnd;
+
+}
+
+?>
